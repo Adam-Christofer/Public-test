@@ -3,4 +3,8 @@ vikas:
 
 1
 
+<<<<<<< HEAD
 manoj tiwari
+=======
+vikas jadhav
+>>>>>>> vikas
